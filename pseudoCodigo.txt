@@ -1,0 +1,23 @@
+El usuario ingresara una cantidad de dinero y el programa
+iniciara: 
+ el inicio tiene que empezar con 0 
+ 
+i sea igual a 0; i que sea < que la longitud del array; incrementa i en 1
+
+si el dinero es > que 0 entonces {
+divicion = a el entero de dinero/valor del billete
+    si divicion > a el valor del billete {}
+    papeles = valor de cantidad
+    si no papeles = divicion
+}
+}
+    dinero = dinero - (el valor del billete * papeles)
+    
+    si dinero es estrictamente igual a 0{
+    entregar.}
+    en caso contrario volver a preguntar que i < que longitud de array
+si dinero es < que 0 entonces 
+terminar el proceso.
+
+
+
